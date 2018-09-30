@@ -12,7 +12,7 @@ To get started, please proceed to the page <a href="http://microsoft.github.io/P
 
 
 
-## PartsUnlimited MRP  - Key Features
+## PartsUnlimited MRP  - Key Features###
 - Front end service - runs Apache Tomcat and talks to order service
 - Order and Integration service - runs Java and calls MongoDB
 - Integration service - present to integrate with Parts Unlimited Website
